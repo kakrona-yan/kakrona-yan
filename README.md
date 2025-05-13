@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180&section=header&text=kakrona-yan&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20Open%20Source%20Contributor|%20Web3%20Enthusiast%20&descAlignY=55&descAlign=50" width="100%" alt="Header" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hello!+I'm+Bankk;Thanks+for+checking+out+my+GitHub!;⭐+Anything+you+find+useful!;Contact+me+if+you+have+any+questions!" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/736x/34/49/5c/34495c84c32da062841d9035eb46c2b9.jpg" alt="Typing SVG" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
@@ -9,11 +9,6 @@
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakrona-yan&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
   </div>
-</div>
-<div align="center">
-  <a href="https://gitroll.io/profile/s6vP9klKpmDYJ7lpkPHpa" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/s6vP9klKpmDYJ7lpkPHpa" alt="GitRoll Profile Badge"/>
-  </a>
 </div>
 <div align="center">
   <h2>

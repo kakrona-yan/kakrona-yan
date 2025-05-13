@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180&section=header&text=kakrona-yan&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20Open%20Source%20Contributor|%20Web3%20Enthusiast%20&descAlignY=55&descAlign=50" width="100%" alt="Header" />
-  <img src="https://i.pinimg.com/736x/34/49/5c/34495c84c32da062841d9035eb46c2b9.jpg" alt="Typing SVG" />
+  <img src="https://cdn-icons-png.flaticon.com/128/13637/13637461.png" loading="lazy" alt="Coding " title="Coding " width="64" height="64">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="images/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-contribution-grid-snake.svg" />
   </picture>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakrona-yan&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
